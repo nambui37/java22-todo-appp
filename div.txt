@@ -1,0 +1,1 @@
+private int div(int a, int b) { reture a/b; }
